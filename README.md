@@ -140,7 +140,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 For any inquiries or suggestions, feel free to contact:
 
-- **Name:** Abhishek Mishra
-- **Email:** [mishraabhishek1810@gmail.com]
-- **GitHub:** [github.com/iabhishek18](https://github.com/iabhishek18)
+- **Name:** Anmol Yadav
+- **Email:** [anmolydv365@gmail.com]
+- **GitHub:** [github.com/Anmolydv07](https://github.com/Anmolydv07)
 
